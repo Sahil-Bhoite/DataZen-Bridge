@@ -2,7 +2,8 @@
 
 **DataZen Bridge** is a modern, production-ready data integration tool that enables seamless data movement between ClickHouse databases and flat files (CSV). With a user-friendly interface, robust type safety, and efficient ingestion/preview APIs, DataZen Bridge is ideal for data engineers and analysts who need to quickly connect, preview, and transfer data.
 
----
+---<img width="1545" alt="Screenshot 2025-04-15 at 4 51 51 PM" src="https://github.com/user-attachments/assets/1176dddf-85ac-425b-8377-b69424364120" />
+
 
 ## Features
 
