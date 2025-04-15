@@ -60,5 +60,5 @@
 
 ## Contact
 
-For questions, support, or business inquiries, please visit:  
+For questions please visit:  
 **[https://sahil-bhoite.github.io/Website/](https://sahil-bhoite.github.io/Website/)**
